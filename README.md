@@ -1,3 +1,21 @@
+# Clash of clans
+This is a terminal based COC game designed using python and making use of OOPS in python3.
+## How to run?
+Run the below command on your terminal to start the game
+```
+python3 game.py
+```
+# Game characters
+* King: One can operate using the keyboard keys.
+  * A - Move left
+  * S - Move down
+  * D - Move right
+  * W - Move up
+* Barbarians
+  * There are 3 troops of barbarians
+  * Use 'J', 'K', and 'M' keys to spwan the barbarians on the board
+  * They have automatic motion
+
 # Game specifications:
 ### Village :
 There will be a map of n * m dimensions representing your village level. Each village must have the
